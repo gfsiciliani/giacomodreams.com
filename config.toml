@@ -2,3 +2,7 @@ baseURL = "https://main--giacomodreams.netlify.app/"
 languageCode = "en-us"
 title = "giacomodreams"
 theme = "cactus"
+
+[params]
+
+  colortheme = "dark" # dark, light, white, or classic
