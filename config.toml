@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'main--giacomodreams'
 languageCode = 'en-us'
 title = 'giacomodreams'
 theme = "risotto"
