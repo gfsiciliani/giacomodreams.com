@@ -1,6 +1,19 @@
 baseURL = "https://giacomodreams.netlify.app/"
 languageCode = "en-us"
-title = "giacomodreams"
+title = "giacomo dreams"
 theme = "paper"
+
+[params]
+	instagram = 'my-first-theme'
+
+
+	
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
 
 
