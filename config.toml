@@ -1,8 +1,6 @@
 baseURL = "https://giacomodreams.netlify.app/"
 languageCode = "en-us"
 title = "giacomodreams"
-theme = "cactus"
+theme = "paper"
 
-[params]
 
-  colortheme = "dark" # dark, light, white, or classic
