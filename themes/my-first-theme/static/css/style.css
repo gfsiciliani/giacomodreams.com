@@ -1,3 +1,5 @@
+
+
 /* LAYOUT */
 
 body {
@@ -7,6 +9,13 @@ body {
   max-width: 45rem;
   padding: 1rem;
   margin: 0 auto;
+  font-family: system-ui;
+  
+  background-color: black;
+
+  h1 {
+    color: ghostwhite;
+  }
 }
 
 .content {
@@ -22,6 +31,7 @@ body {
 .site-nav a {
   display: block;
   padding: 1rem;
+  color: darkgreen;
 }
 
 .site-nav .logo {
