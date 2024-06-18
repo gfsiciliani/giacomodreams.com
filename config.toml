@@ -1,7 +1,7 @@
 baseURL = "https://giacomodreams.netlify.app/"
 languageCode = "en-us"
 title = "giacomo dreams"
-theme = "my-first-theme"
+theme = "paper"
 
 [params]
 	instagram = 'giacomodreams'
